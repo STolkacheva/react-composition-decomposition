@@ -1,0 +1,24 @@
+.App {
+  text-align: left;
+}
+.main {
+  width: 900px;
+  margin: 0 auto;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: grey;
+}
+.widgets {
+  display: flex;
+  flex-flow: column;
+  height: 350px;
+  flex-wrap: wrap;
+}
+.widget {
+  width: 30%;
+  margin: 15px;
+}
