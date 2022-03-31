@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-composition-decomposition/static/css/main.fbd2904e.css",
+    "main.js": "/react-composition-decomposition/static/js/main.9b26f5d6.js",
+    "index.html": "/react-composition-decomposition/index.html",
+    "main.fbd2904e.css.map": "/react-composition-decomposition/static/css/main.fbd2904e.css.map",
+    "main.9b26f5d6.js.map": "/react-composition-decomposition/static/js/main.9b26f5d6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbd2904e.css",
+    "static/js/main.9b26f5d6.js"
+  ]
+}
